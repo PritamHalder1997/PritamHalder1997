@@ -1,4 +1,4 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2QNWZkbDAxCwpjCWLWm8OmrYGg87GQIWV2Kjtvl7zHZX4z4rONA7ntG3jYgglXoEJ5w&usqp=CAU)
+<img  align="center" alt="Banner" height="350" width="990" src="https://i.pinimg.com/originals/b7/01/0a/b7010ade10c63cf89d80e3e0abb0f4a3.jpg">
 <h1 align="center">Hi 👋, I'm Pritam Halder</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
