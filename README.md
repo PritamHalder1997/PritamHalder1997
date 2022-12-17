@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritam Halder</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5403918-Focus&psig=AOvVaw2EwYue62ktbuj4ES4a9cUp&ust=1671339845186000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPja5eXw__sCFQAAAAAdAAAAABAf">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?rlz=1C1YTUH_enIN1029IN1029&sxsrf=ALiCzsanwRVeg9KG4EJiPQsa0Omj6LeCyw:1671253443300&q=animated+coding+gif&tbm=isch&sa=X&ved=2ahUKEwi45sSe8P_7AhUV8DgGHYfpApgQ0pQJegQIDBAB&biw=1366&bih=568&dpr=1#imgrc=XialIsv7hGa1mM&imgdii=55jyr3BK5duBpM">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamhalder1997&label=Profile%20views&color=0e75b6&style=flat" alt="pritamhalder1997" /> </p>
 
 <h3 align="left">Connect with me:</h3>
